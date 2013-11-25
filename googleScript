@@ -1,0 +1,16 @@
+<html>
+<head>
+
+<script src="http://www.google.com/jsapi"></script>  
+<script type="text/javascript">  
+ 
+    google.load("jquery", "1.2.6");  
+ 
+    google.setOnLoadCallback(function() {  
+          //your code
+    });  
+ 
+</script>
+
+</head>
+</html>
